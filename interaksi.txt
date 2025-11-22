@@ -1,0 +1,6 @@
+Hai! Nama saya adalah (namanya bebas yaa)! Saya akan menjadi bot Discord yang akan menjelaskan tentang definisi, penyebab, dampak, dan solusi untuk mencegah perubahan iklim. Ketik kode sebagai berikut untuk mendapatkan penjelasan dari masing-masing kategori:
+1. !definisi - menjelaskan definisi dari perubahan iklim 
+2. !penyebab - menjelaskan penyebab perubahan iklim bisa terjadi
+3. !dampak - menjelaskan dampak jika perubahan iklim terjadi 
+4. !solusi - menjelaskan cara mencegah perubahan iklim. 
+Semoga informasi yang saya berikan dapat bermanfaat dan meningkatkan kesadaran Anda tentang bahayanya perubahan iklim! :)
